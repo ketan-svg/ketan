@@ -1,0 +1,15 @@
+.loader {
+  width: 80px;
+  height: 80px;
+  background-image: url('./assets/loader-car.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* not found page */
+.notfound {
+  min-height: 400px;
+  background-image: url('./assets/notfound.png');
+  background-size: cover;
+  background-position: center;
+}
